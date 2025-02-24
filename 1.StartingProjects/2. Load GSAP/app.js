@@ -24,7 +24,8 @@ timeLine
     duration: 0.6 
   })
 	.set(".flip-img1", {
-    display: "none"
+    display: "none",
+    duration: 0
   })
 
 	.to(".f2", { 
